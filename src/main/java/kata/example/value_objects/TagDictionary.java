@@ -1,4 +1,4 @@
-package kata.example;
+package kata.example.value_objects;
 
 public class TagDictionary {
     

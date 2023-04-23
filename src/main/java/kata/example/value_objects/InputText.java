@@ -1,10 +1,10 @@
-package kata.example;
+package kata.example.value_objects;
 
-public class TransformText {
+public class InputText {
     
     String value;
     
-    public TransformText(String value) {
+    public InputText(String value) {
         this.value = value;
     }
     
